@@ -139,15 +139,15 @@ hero_message_id = 0
 last_captcha_id = 0
 gold_to_left = 0
 
-bot_enabled = True
+bot_enabled = False
 arena_enabled = True
-les_enabled = True
+les_enabled = False
 peshera_enabled = False
 corovan_enabled = True
 order_enabled = True
-auto_def_enabled = True
+auto_def_enabled = False
 donate_enabled = False
-quest_fight_enabled = True
+quest_fight_enabled = False
 
 arena_running = False
 arena_delay = False
